@@ -9,8 +9,6 @@ seaborn==0.13.0
 plotly>=5.0.0
 
 # DeepFace & Emotion analysis
-deepface==0.0.79
-tensorflow>=2.6.0,<2.16.0
 protobuf==3.20.3
 
 # Geolocation
